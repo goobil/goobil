@@ -8,10 +8,31 @@
 goobil/goobil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I want to understand iOS/Android development. I have been watching YouTube videos for the last six months trying to understand where to start. All the videos I watched all failed to show how you link an APP to your local database like SQL or an IIS API to pull or push the data.
-
-I don't have a particular project in mind as I type this assignment.
-I have a WhatsApp group that shares Pokémon Go codes and chats. Now I want to extend that concept into an app where users can use the app to share code, chat with each other, and raid with each other.
-
-This repository is my documentation repository for learning the world of app development. I started this journey to understand App Development in April 2022, and I plan to run to June Month End on spending two hours a day, including weekends, to get foundational knowledge across a lot of different areas that make up AppDEV, including Swift, Xcode, and Java. My two main programming tools are Xcode and VSCode.
+📱 App Development Learning Journey & VoteUpp Project
+Welcome to my documentation repository—created to chronicle my exploration into mobile app development and the evolution of my first real-world project: VoteUpp.
+🎯 Purpose
+I began this journey in April 2022 with a simple goal: to understand how mobile apps are built, especially how they connect to local databases like SQL or APIs hosted on IIS. After months of watching tutorials, I realized many skipped over the practical steps of linking an app to real data sources. This repository is my attempt to fill in those gaps through hands-on learning and structured documentation.
+💡 Early Inspiration
+While I didn’t start with a specific app idea, I was part of a WhatsApp group that shared Pokémon Go codes and coordinated raids. That sparked a concept:
+What if there was an app where users could share codes, chat, and raid together—all in one place?
+That idea planted the seed for future experimentation and eventually led to VoteUpp.
+🗳️ VoteUpp: My First Real-World App
+VoteUpp is a mobile app I’m building for the United Progressive Party to boost engagement and gather strategic feedback from supporters. It’s designed to be:
+🗳️ Interactive – Users can participate in polls and share opinions.
+📣 Community-driven – Encourages dialogue and collaboration.
+📱 Accessible – Built with inclusive design and semantic labeling.
+🧠 Well-documented – Includes onboarding guides and markdown documentation for maintainability.
+This project is where I apply everything I’ve learned—from Flutter setup and push notifications to branding, asset optimization, and legal clarity.
+🛠️ Tools & Technologies
+To build foundational knowledge, I committed to studying two hours a day (including weekends) until the end of June 2024. My focus areas included:
+Languages & Frameworks: Swift, Java, Flutter
+Development Tools: Xcode, VSCode
+Topics Explored: App architecture, database integration, API communication, UI/UX fundamentals
+📚 What You'll Find Here
+This repo contains:
+✅ Notes and insights from tutorials and experiments
+🧩 Code snippets and mini-projects
+📄 Markdown documentation (README.md, CONFIG.md, FLAVORS.md, etc.)
+🧠 Reflections on what worked, what didn’t, and what I plan to explore next
+🗂️ Assets and branding materials for VoteUpp
 

@@ -36,3 +36,16 @@ This repo contains:
 🧠 Reflections on what worked, what didn’t, and what I plan to explore next
 🗂️ Assets and branding materials for VoteUpp
 
+## ⚙️ Settings & Configuration
+
+**Looking for your TOKEN?** Check the [Configuration Guide (CONFIG.md)](./CONFIG.md) for detailed instructions on:
+- 🔑 Finding GitHub Personal Access Tokens
+- 🔐 API Keys for Firebase, Google Maps, and other services  
+- 🛠️ Environment setup for local development
+- 🔒 Security best practices for token management
+
+Common token locations:
+- **GitHub**: Settings → Developer settings → Personal access tokens
+- **Firebase**: Console → Project settings → Service accounts
+- **Google Cloud**: Console → APIs & Services → Credentials
+
